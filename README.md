@@ -4,10 +4,6 @@
 $ npm install
 ```
 
-### Starting the application
-
-After installing the dependencies, you can run the application using one of the following commands.
-
 ```bash
 # development
 $ npm run start
